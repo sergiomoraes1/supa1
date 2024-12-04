@@ -1,0 +1,1 @@
+docker run -it --rm -v /caminho/no/host:/app minha-imagem
